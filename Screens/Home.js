@@ -80,10 +80,10 @@ const Home = () => {
               <Text style={styles.textInStep}>Do you have a break down</Text>
             </View>
             <Text style={styles.descInStep}>
-              When you have a break and you can get to locate any quick help
+              When you have a break down and you can get to locate any quick help
               just use our{" "}
               <Text style={{ color: "#4ecdc4", fontWeight: "bold" }}>
-                AutoMech Locator.
+                Help Locator.
               </Text>
             </Text>
           </View>
@@ -103,7 +103,7 @@ const Home = () => {
           <View style={{ marginTop: 20 }}>
             <View style={styles.step}>
               <Entypo name="emoji-happy" size={24} color="#292f36" />
-              <Text style={styles.textInStep}>Help is on the way</Text>
+              <Text style={styles.textInStep}>Your needed Help is on the way</Text>
             </View>
             <Text style={styles.descInStep}>
               Sit back cause the system will automatically find the nearest
