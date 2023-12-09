@@ -54,17 +54,17 @@ const Home = () => {
         <View style={styles.overlay}>
           <View style={styles.container2}>
             <Text style={styles.text}>
-              Where Cars Get the Care They Deserve!
+              We are Here to Save Your Needs!
             </Text>
             <Text style={{ color: "#ededed", marginTop: 5 }}>
-              One Click AutoMech Locator
+              We are a Button Away
             </Text>
           </View>
         </View>
       </ImageBackground>
       <ScrollView>
         <View style={{ paddingStart: 10 }}>
-          <Text style={styles.heading}>AutoMech Services</Text>
+          <Text style={styles.heading}>Truck Roadside Assistance</Text>
           <FlatList
             horizontal={true}
             data={ServicesData}
