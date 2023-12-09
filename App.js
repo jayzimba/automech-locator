@@ -20,7 +20,7 @@ export default function App() {
         <Drawer.Screen name="Near me" component={NearMe} />
         <Drawer.Screen name="Pending" component={Pending} />
         <Drawer.Screen name="History" component={History} />
-        <Drawer.Screen name="Locate AutoMech" component={LocateView} />
+        <Drawer.Screen name="Locate Your Required Service" component={LocateView} />
       </Drawer.Navigator>
     </NavigationContainer>
   );

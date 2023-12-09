@@ -139,7 +139,7 @@ const Home = () => {
                 fontSize: 16,
               }}
             >
-              Locate AutoMechanic
+              Locate Your Required Assistance
             </Text>
           </TouchableOpacity>
         </View>
